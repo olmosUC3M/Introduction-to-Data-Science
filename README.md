@@ -23,6 +23,8 @@ I have structured the course with 18 lessons organized as follows:
 17. Word Embeddings
 18. Recurrent Neural Networks for text prediction
 
+**Important note: this course is still under construction!** We expect to have all lessons available by June 2018. Until then, a new lesson will weekly be uploaded. Currently, **sessions 1 to 8 are available**. 
+
 For every lesson, I provide a self-contained notebook with both models descriptions and theoretical description (using integrated LaTeX Markdown blocks) and practical examples. In sessions 3-5, all steps are implemented manually (so students can learn how to implement stuff by themselves) but from session 6 we start using built-in [sciki-learn libraries](http://scikit-learn.org/stable/). 
 
 This course is largely inspired in the excellent courses by [Andrew Ng](https://www.coursera.org/learn/machine-learning) and by [Emily Fox and Carlos Guestrin](https://www.coursera.org/specializations/machine-learning), all in available in [Coursera](https://www.coursera.org/).
