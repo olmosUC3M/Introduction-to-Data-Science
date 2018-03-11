@@ -13,7 +13,6 @@ I have structured the course with 18 lessons organized as follows:
 7. Introduction to binary classification and logistic regression
 8. The kernel trick in logistic regression
 9. Support Vector Machines
-10. Multiclass classificaiton
 11. Unsupervised Learning. Clustering with K-means
 12. Clustering with Gaussian Mixture Models and the EM algorithm
 13. Dimensionality Reduction with PCA. Probabilistic PCA.
