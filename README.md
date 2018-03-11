@@ -13,14 +13,14 @@ I have structured the course with 18 lessons organized as follows:
 7. Introduction to binary classification and logistic regression
 8. The kernel trick in logistic regression
 9. Support Vector Machines
-11. Unsupervised Learning. Clustering with K-means
-12. Clustering with Gaussian Mixture Models and the EM algorithm
-13. Dimensionality Reduction with PCA. Probabilistic PCA.
-14. Latent-Dirichelet Allocation. Finding similar documents in a corpus of documents.
-15. Introduction to Neural Networks & Tensorflow
-16. Building an image classifier with Convolutional Neural Networks
-17. Word Embeddings
-18. Recurrent Neural Networks for text prediction
+10. Unsupervised Learning. Clustering with K-means
+11. Clustering with Gaussian Mixture Models and the EM algorithm
+12. Dimensionality Reduction with PCA. Probabilistic PCA.
+13. Latent-Dirichelet Allocation. Finding similar documents in a corpus of documents.
+14. Introduction to Neural Networks & Tensorflow
+15. Building an image classifier with Convolutional Neural Networks
+16. Word Embeddings
+17. Recurrent Neural Networks for text prediction
 
 **Important note: this course is still under construction!** We expect to have all lessons available by June 2018. Until then, a new lesson will weekly be uploaded. Currently, **sessions 1 to 8 are available**. 
 
