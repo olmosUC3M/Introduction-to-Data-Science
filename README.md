@@ -14,8 +14,8 @@ I have structured the course with 18 lessons organized as follows:
 8. The kernel trick in logistic regression
 9. Support Vector Machines
 10. Unsupervised Learning. Clustering with K-means
-11. Clustering with Gaussian Mixture Models and the EM algorithm
-12. Dimensionality Reduction with PCA. Probabilistic PCA.
+11. Dimensionality Reduction with PCA. Probabilistic PCA.
+12. Clustering with Gaussian Mixture Models and the EM algorithm
 13. Latent-Dirichelet Allocation. Finding similar documents in a corpus of documents.
 14. Introduction to Neural Networks & Tensorflow
 15. Building an image classifier with Convolutional Neural Networks
