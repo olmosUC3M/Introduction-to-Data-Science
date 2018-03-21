@@ -16,11 +16,10 @@ I have structured the course with 18 lessons organized as follows:
 10. Unsupervised Learning. Clustering with K-means
 11. Dimensionality Reduction with PCA. Probabilistic PCA.
 12. Clustering with Gaussian Mixture Models and the EM algorithm
-13. Latent-Dirichlet Allocation. Finding similar documents in a corpus of documents.
-14. Introduction to Neural Networks & Tensorflow
-15. Building an image classifier with Convolutional Neural Networks
-16. Word Embeddings
-17. Recurrent Neural Networks for text prediction
+13. Introduction to Neural Networks & Tensorflow
+14. Building an image classifier with Convolutional Neural Networks
+15. Word Embeddings
+16. Recurrent Neural Networks for text prediction
 
 **Important note: this course is still under construction!** We expect to have all lessons available by June 2018. Until then, a new lesson will weekly be uploaded. Currently, **sessions 1 to 12 are available**. 
 
