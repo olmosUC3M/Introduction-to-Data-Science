@@ -16,12 +16,13 @@ I have structured the course with 18 lessons organized as follows:
 10. Unsupervised Learning. Clustering with K-means
 11. Dimensionality Reduction with PCA. Probabilistic PCA.
 12. Clustering with Gaussian Mixture Models and the EM algorithm
-13. Introduction to Neural Networks & Tensorflow
-14. Building an image classifier with Convolutional Neural Networks
-15. Word Embeddings
-16. Recurrent Neural Networks for text prediction
+13. Mixtures of Bernoulli distributions
+14. Introduction to Neural Networks & Tensorflow
+15. Building an image classifier with Convolutional Neural Networks
+16. Word Embeddings
+17. Recurrent Neural Networks for text prediction
 
-**Important note: this course is still under construction!** We expect to have all lessons available by June 2018. Until then, a new lesson will weekly be uploaded. Currently, **sessions 1 to 12 are available**. 
+**Update (April 2018):** The course is finally finished, but will continue evolving during the next academic semester! I plan to add more practical examples with real data and certainly expand the introduction to deep learning. 
 
 For every lesson, I provide a self-contained notebook with both models descriptions and theoretical description (using integrated LaTeX Markdown blocks) and practical examples. In sessions 3-5, all steps are implemented manually (so students can learn how to implement stuff by themselves) but from session 6 we start using built-in [sciki-learn libraries](http://scikit-learn.org/stable/). 
 
